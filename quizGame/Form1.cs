@@ -196,5 +196,9 @@ namespace quizGame
 
         }
 
+        private void lblQuestion_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
